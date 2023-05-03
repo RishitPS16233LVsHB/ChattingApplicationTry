@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\ChattingApplication\bin\Debug\ChattingApplication.exe.config
+C:\Users\hp\Desktop\ChattingApplication\bin\Debug\ChattingApplication.exe
+C:\Users\hp\Desktop\ChattingApplication\bin\Debug\ChattingApplication.pdb
+C:\Users\hp\Desktop\ChattingApplication\obj\Debug\ChattingApplication.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ChattingApplication\obj\Debug\ChattingApplication.Form1.resources
+C:\Users\hp\Desktop\ChattingApplication\obj\Debug\ChattingApplication.Properties.Resources.resources
+C:\Users\hp\Desktop\ChattingApplication\obj\Debug\ChattingApplication.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ChattingApplication\obj\Debug\ChattingApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ChattingApplication\obj\Debug\ChattingApplication.exe
+C:\Users\hp\Desktop\ChattingApplication\obj\Debug\ChattingApplication.pdb
